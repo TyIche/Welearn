@@ -1,0 +1,35 @@
+Url基本格式：https://centercourseware.sflep.com/inspire%203/data/'@unit@'/'@x-y-z@'.html
+	unit处即为单元数目 x y z表示之后的子分支
+et-choice标签的key值为 选择题答案(包括选词填空）
+et-blank标签的string值为 填空题的答案
+et-reference标签且title值为“Reference”标签中ol标签中li标签的string值为答案
+特别的 t/f选择题将由标号给出（
+标号顺序：  
+1 2
+3 4
+5 6
+.
+。
+。
+
+
+关于 x  y  z:
+	由于时间和技术原因，暂时不解析x,y,z
+	而是采取一种便利到答案就输出的不要脸做法替代！
+框架：
+find():
+	
+work():
+	if find(1) print
+	if find(2) print
+	if find(3) print
+
+for u in ():#u == unit
+
+	for x in ():
+
+		for y in ():
+
+			for z in ():
+
+				work()
