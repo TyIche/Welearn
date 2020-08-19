@@ -1,0 +1,632 @@
+
+Unit=1 x=1 y=1 z=0
+Answers will vary. Possible answer: He was exploring new territory. Antarctica is freezing and also dark for most of the year.
+Answers will vary. Possible answer: Bill Gates started his own company, Microsoft, and achieved great success in his career. He also donates a lot of money to charity.
+Answers will vary. Possible answer: Learning from our mistakes and failures can help us succeed in the future.
+Unit=1 x=2 y=1 z=2
+determination
+hard work
+Unit=1 x=2 y=1 z=3
+a
+b
+a
+b
+Unit=1 x=2 y=2 z=1
+determination
+hard work
+Unit=1 x=2 y=2 z=2
+a
+b
+a
+b
+Unit=1 x=3 y=1 z=1
+magic
+astronaut
+crew
+mission
+failure
+turn down
+field
+rocket
+Unit=1 x=3 y=1 z=3
+Important lessons from failure.
+We learn to be careful and to learn from our mistakes.
+Unit=1 x=3 y=1 z=4
+pressure
+turned down
+lessons
+mistakes
+climb
+Unit=1 x=3 y=2 z=2
+a
+Unit=1 x=3 y=2 z=3
+heavy
+didn’t work|didn't work
+expensive
+stopped selling
+iPhone
+iPad
+Unit=1 x=4 y=1 z=2
+Antarctica
+adventure
+peak
+severe
+Antarctica
+adventure
+peak
+severe
+He was climbing Qomolangma when a severe storm killed 12 climbers, including some of his team.
+He is in Antarctica to be a part of the first team to climb Rakekniven Peak.
+Unit=1 x=4 y=2 z=1
+1
+6
+4
+7
+2
+5
+3
+Unit=1 x=4 y=2 z=2
+a
+b
+Unit=1 x=4 y=2 z=3
+Jonâ€™s team had succeeded in reaching the top of Rakekniven safely. He put the flag there to commemorate their success.
+Unit=1 x=4 y=3 z=0
+Answers will vary. When Krakauer puts the flag from Qomolangma into the mountain in Antarctica, he is succeeding after a significant failure. During the video, we see that Krakauer is enjoying the climb. After Qomolangma, he wasnâ€™t sure if he ever wanted to climb again. So he probably feels very happy to be enjoying climbing again, and to have had a safe and successful expedition with his team in Antarctica.
+Answers will vary.
+Unit=1 x=5 y=2 z=0
+d
+a
+b
+Unit=1 x=6 y=1 z=0
+d
+a
+b
+Unit=2 x=1 y=1 z=0
+Unit=2 x=2 y=1 z=2
+A scientist who is calling for a change in our shopping habits.
+Some of the ways that our purchasing preferences are hurting the environment.
+Unit=2 x=2 y=1 z=3
+throw
+away
+2
+trash
+Repair
+reuse
+recycle
+one|1|a
+billion
+95
+80
+bike
+walk
+250|two hundred and fifty
+twenty five thousand|25,000
+disease
+eat
+meat
+Unit=2 x=2 y=2 z=1
+A scientist who is calling for a change in our shopping habits.
+Some of the ways that our purchasing preferences are hurting the environment.
+Unit=2 x=2 y=2 z=2
+throw
+away
+2
+trash
+Repair
+reuse
+recycle
+a
+billion
+95
+80
+bike
+walk
+250
+25,000
+disease
+eat
+meat
+Unit=2 x=3 y=1 z=1
+import
+resources
+device
+Statistics
+export
+global
+stuffs|stuff
+electronics
+Unit=2 x=3 y=1 z=2
+b
+c
+a
+d
+b
+c
+a
+d
+Unit=2 x=3 y=1 z=3
+Where our stuff comes from.
+Many of the products we buy are made or grown somewhere else.
+Unit=2 x=3 y=1 z=4
+statistics
+designed
+electronics
+resources
+African
+diamonds
+Unit=2 x=3 y=2 z=3
+10|ten
+12|twelve
+fires
+a|1|one
+dollar
+40
+sugar
+cows
+8|eight
+million
+Unit=2 x=4 y=1 z=2
+Global warming
+fossil fuels
+greenhouse gases
+carbon footprint
+Global warming
+fossil fuels
+greenhouse gases
+carbon footprint
+Unit=2 x=4 y=2 z=1
+water
+waste
+cold
+water
+transport
+Unit=2 x=4 y=2 z=2
+e
+g
+b
+f
+Unit=2 x=4 y=2 z=3
+Unit=2 x=5 y=1 z=0
+3
+5
+4
+2
+1
+Unit=2 x=5 y=2 z=0
+a
+d
+c
+Unit=2 x=6 y=1 z=0
+a
+d
+c
+Unit=3 x=1 y=0 z=0
+a
+a
+a
+a
+a
+Unit=3 x=2 y=0 z=0
+Unit=4 x=1 y=0 z=0
+determined
+failed
+turned
+replaced
+produced
+determined
+failed
+turned
+replaced
+produced
+Unit=5 x=1 y=1 z=0
+Unit=5 x=2 y=1 z=3
+a
+a
+c
+a
+a
+a
+c
+a
+Unit=5 x=2 y=2 z=2
+a
+c
+a
+a
+Unit=5 x=3 y=1 z=1
+enlarged
+fascinated
+self-portrait
+arrests
+surface
+approve of
+ugly
+reveal
+Unit=5 x=3 y=1 z=3
+To show who you are and share what is important to you with the world.
+He thinks art should be seen by everyone, and he likes when it appears in a place that surprises people.
+Unit=5 x=3 y=1 z=4
+b
+d
+c
+Unit=5 x=3 y=2 z=2
+a
+b
+Unit=5 x=3 y=2 z=3
+wesome
+alent
+nteresting
+ree
+andalism
+gly
+ood
+ermission
+Unit=5 x=4 y=1 z=2
+b
+Unit=5 x=4 y=2 z=1
+a
+a
+a
+a
+a
+b
+a
+a
+a
+Unit=5 x=4 y=2 z=2
+Because HA Schult wants to remind us that people produce garbage and sometimes people are a kind of garbage. By making those “trash people,” Schult is asking us to think about the trash problem facing our planet today. He believes that the trash problem is a universal one, and the solution will come from the efforts made by every global citizen and even our future generations.
+Unit=5 x=5 y=2 z=0
+d
+a
+b
+b
+Unit=5 x=6 y=1 z=0
+d
+a
+b
+b
+Unit=6 x=1 y=1 z=0
+Answers will vary. It all depends on the situation. If the task is easy enough to tackle on my own without me having to brainstorm with a team or share the workload with others, I am happy to work on my own. However, if the assignment is too much for one person to handle, I welcome working with a team to tackle the project together.
+Answers will vary. In cases of natural disasters, a complicated work or school project, in team sporting events, etc.
+Answers will vary. The Wenchuan earthquake in 2008 caused many people to die and lose their homes. I gave all the money that I had saved to my school which was collecting money to send to the disaster relief fund.
+Unit=6 x=2 y=1 z=2
+c
+c
+d
+Unit=6 x=2 y=2 z=1
+c
+c
+d
+Unit=6 x=3 y=1 z=1
+volunteered
+recycled
+colony
+contribute
+do their part
+self-organizing
+Unit=6 x=3 y=1 z=3
+Ant colonies are successful because each ant does its part to help the group.
+Humans can learn from ants about working together and thinking about more than ourselves to improve our communities.
+Unit=6 x=3 y=1 z=4
+b
+c
+Unit=6 x=3 y=2 z=2
+c
+Unit=6 x=4 y=1 z=2
+A famous Mongolian leader who died in 1227.
+Find the secret location where Genghis Khan was buried.
+“Citizen scientists” through the Human Computation Network.
+Unit=6 x=4 y=2 z=1
+85,000|eighty-five thousand|85 thousand
+website
+scan|tag
+unusual
+sites
+Unit=6 x=4 y=2 z=2
+c
+Unit=6 x=4 y=2 z=3
+Human
+Computation
+85,000|eight-five thousand|85 thousand
+scan
+unusual
+structures
+figure
+out
+3,000|three thousand|3 thousand
+guide
+Unit=6 x=5 y=1 z=0
+3
+5
+2
+1
+4
+6
+Unit=6 x=5 y=2 z=0
+c
+a
+d
+b
+Unit=6 x=6 y=1 z=0
+c
+a
+d
+b
+Unit=7 x=1 y=0 z=0
+laughs
+trolley
+camouflage
+vegetables
+supermarket
+invisible
+laughs
+trolley
+camouflage
+vegetables
+supermarket
+invisible
+Unit=7 x=2 y=0 z=0
+Unit=8 x=1 y=0 z=0
+absolutely
+vandalism
+thought-provoking
+collaborating
+colony
+absolutely
+vandalism
+thought-provoking
+collaborating
+colony
+Unit=8 x=3 y=0 z=0
+modern art
+freerice.com
+crowdsourcing
+art
+Unit=9 x=1 y=1 z=0
+Natural disasters, severe storms, fires, vehicle accidents, lost in the wilderness, etc.
+Answers will vary.
+Answers will vary.
+Unit=9 x=2 y=1 z=3
+c
+Unit=9 x=2 y=1 z=4
+he needed to go to the bathroom.
+he was trapped in a small room.
+no fresh water to drink.
+three days / 60 hours.
+never expected to find anyone still alive.
+still had to stay underwater in a special box for two and a half days
+ever work on a ship again.
+Unit=9 x=2 y=2 z=2
+c
+Unit=9 x=2 y=2 z=3
+he needed to go to the bathroom.
+he was trapped in a small room.
+no fresh water to drink.
+three days / 60 hours.
+never expected to find anyone still alive.
+still had to stay underwater in a special box for two and a half days
+Unit=9 x=3 y=1 z=1
+smashed
+closet
+incredibly
+tornado
+escape
+destroy
+document
+miracle
+Unit=9 x=3 y=1 z=2
+1
+7
+4
+2
+3
+6
+5
+Unit=9 x=3 y=1 z=3
+I was in my house and had no time to escape. I ran with my son into a closet.
+I did think I might die. I couldn’t breathe because I inhaled so much dirt and dust. Then the tornado suddenly lifted me into the air where I could breathe.
+My house was destroyed and I was thrown into the air. I can’t believe a person can survive that, but I did.
+Unit=9 x=3 y=2 z=2
+An earthquake in Port-au-Prince, Haiti.
+He made a map to help people get help during the earthquake.
+Unit=9 x=4 y=1 z=2
+Aton Edwards is a survival expert. He teaches people how to be prepared to survive in an emergency.
+Answers will vary. Some possibilities: earthquakes, blackouts, fires, hurricanes, tornados. Iâ€™m currently living in Suzhou, China. This city is known as an earthly paradise in China, partly because it rarely suffers from any natural disasters.
+Unit=9 x=4 y=2 z=2
+a
+a
+b
+a
+Unit=9 x=4 y=2 z=3
+Unit=9 x=4 y=3 z=0
+Answers will vary. Students should support their opinions with reasons and examples.
+Unit=9 x=5 y=2 z=0
+a
+c
+d
+Unit=9 x=6 y=1 z=0
+a
+c
+d
+Unit=10 x=1 y=1 z=0
+Cars that use hybrid technology, the smartphone, high-speed wireless Internet connection, LED lights, the mp3 player, seedless fruit, the plasma TV, GPS devices, etc.
+It’s likely that current innovations will be replaced in the next 10 to 15 years as other technology continues to advance and becomes more environmentally friendly. 
+Computers will likely only be used for very menial jobs in the near future. Human creativity, intelligence, and skill will likely be difficult to replace with a machine in the near future.
+Unit=10 x=2 y=1 z=2
+3
+2
+1
+4
+Unit=10 x=2 y=1 z=3
+a
+b
+a
+b
+Unit=10 x=2 y=2 z=1
+3
+2
+1
+4
+Unit=10 x=2 y=2 z=2
+a
+a
+b
+b
+Unit=10 x=3 y=1 z=1
+urban planner
+interact
+commuter
+option
+predict
+confirmed
+traffic jam
+population
+Unit=10 x=3 y=1 z=3
+Itâ€™s mainly about one possible solution to the traffic problems and how it works.
+Unit=10 x=3 y=1 z=4
+Human decision-making.
+Driverless cars.
+Computers will drive the cars, communicating with computers in other cars, to make efficient decisions.
+Yes, they expect driverless cars to become normal in the next decade or two.
+Unit=10 x=3 y=2 z=2
+a
+b
+a
+b
+Unit=10 x=3 y=2 z=3
+commute
+faster
+safer
+lose
+jobs
+parks
+time
+working
+steal
+Unit=10 x=4 y=1 z=2
+They are used for entertainment, such as in the restaurant in Harbin, China. Robots are in use in the home, like the popular robotic vacuum cleaner called Roomba. However, overall, robots have not been integrated into the everyday life of humans yet.
+The technology hasn’t been fully developed yet. Robots can’t do unpredictable tasks yet, which makes them less useful.
+For everyday tasks around the house and at work.
+Unit=10 x=4 y=2 z=1
+b
+Unit=10 x=4 y=2 z=2
+features that seem almost human
+out of the lab and into use with people
+improve the quality of life of everybody
+assisting the disabled or helping the elderly
+Unit=10 x=4 y=3 z=0
+Unit=10 x=5 y=2 z=0
+a
+c
+a
+Unit=10 x=6 y=1 z=0
+a
+c
+a
+Unit=11 x=1 y=0 z=0
+tower
+plant
+conveyor
+stored
+automatically
+tower
+plant
+conveyor
+stored
+automatically
+Unit=11 x=2 y=0 z=0
+Unit=12 x=1 y=0 z=0
+hear
+happened
+during
+Wait
+believe
+hear
+happened
+during
+Wait
+believe
+Unit=12 x=2 y=0 z=0
+inventor|innovator
+3-D printer
+commuter
+urban planner
+expert
+Unit=13 x=1 y=0 z=0
+d
+a
+c
+a
+a
+d
+c
+d
+d
+a
+b
+d
+b
+c
+d
+d
+b
+a
+d
+b
+a
+b
+b
+d
+a
+Unit=14 x=1 y=0 z=0
+a
+c
+b
+d
+a
+c
+b
+a
+c
+b
+d
+d
+c
+b
+a
+b
+c
+d
+b
+a
+c
+b
+d
+c
+a
+Unit=15 x=1 y=0 z=0
+c
+d
+b
+d
+c
+d
+a
+b
+c
+d
+a
+d
+a
+b
+c
+b
+d
+b
+b
+d
+a
+d
+b
+c
+d

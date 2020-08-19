@@ -1,0 +1,21 @@
+
+Unit=1 x=1 y=1 z=0
+Answers will vary. Possible answer: He was exploring new territory. Antarctica is freezing and also dark for most of the year.
+Answers will vary. Possible answer: Bill Gates started his own company, Microsoft, and achieved great success in his career. He also donates a lot of money to charity.
+Answers will vary. Possible answer: Learning from our mistakes and failures can help us succeed in the future.
+Unit=1 x=2 y=1 z=2
+determination
+hard work
+Unit=1 x=2 y=1 z=3
+a
+b
+a
+b
+Unit=1 x=2 y=2 z=1
+determination
+hard work
+Unit=1 x=2 y=2 z=2
+a
+b
+a
+b
